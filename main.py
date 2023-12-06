@@ -153,9 +153,3 @@ compare_button = tk.Button(
 
 compare_button.place(x=200, y=320)
 root.mainloop()
-
-'''def preprocess_signature(signature):
-    # Apply preprocessing operations to the signature
-    # Add your preprocessing steps here
-
-    return signature'''
